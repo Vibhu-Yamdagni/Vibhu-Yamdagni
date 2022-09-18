@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vibhu-Yamdagni
+- 👋 Hi, I am Vibhu Yamdagni.
 - 👀 I’m interested in Data Engineering and Machine Learning.
 - 🌱 I’m currently learning Data integration on Cloud.
 - 💞️ I’m looking to collaborate on Time series Analysis.
